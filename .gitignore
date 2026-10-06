@@ -1,0 +1,30 @@
+# Ambientes virtuais e arquivos locais
+.venv/
+.env
+.env.*
+
+# Caches e artefatos gerados pelo Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Sistema operacional e editores
+.DS_Store
+.vscode/
+
+# Caches de notebooks
+.ipynb_checkpoints/
+
+# Caches locais de datasets e modelos baixados
+.cache/
+huggingface/
+
+# Logs e arquivos temporarios
+*.log
+*.tmp
+
+# Resultados experimentais locais (o checkpoint oficial em artifacts/ permanece versionavel)
+outputs/
+runs/
