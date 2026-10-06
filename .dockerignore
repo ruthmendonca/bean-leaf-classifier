@@ -6,5 +6,4 @@ __pycache__
 .DS_Store
 notebooks
 *.ipynb
-ETAPAS_STATUS.md
 LICENSE
